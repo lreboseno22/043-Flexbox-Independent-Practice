@@ -1,0 +1,50 @@
+body {
+    background-color: lightgrey;
+}
+
+.menu1 {
+    display: flex;
+    justify-content: space-around;
+    background-color: grey;
+    border: 10px dotted green;
+    padding:20px;
+}
+
+.item1 {
+    display: flex;
+    margin: 12px;
+    padding: 8px;
+    border: 2px solid blue;
+}
+
+.menu2 {
+    display: flex;
+    justify-content: space-around;
+    background-color: yellow;
+    border: 10px solid orange;
+    padding: 20px;
+}
+
+.item2 {
+    display: flex;
+    margin: 12px;
+    padding: 8px;
+    border: 2px dotted white;
+}
+
+.menu3 {
+    display: flex;
+    justify-content: center;
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFOdXVA3l4H4qIGoMP5QQgjCkQbV4sV_keTg&usqp=CAU);
+    border: 10px dashed red;
+    padding: 20px;
+}
+
+.item3 {
+    display: flex;
+    margin: 12px;
+    padding: 8px;
+    border: 2px solid white;
+    font-weight: bold;
+
+}
